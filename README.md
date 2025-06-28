@@ -28,26 +28,18 @@
 
 ### 📘 Projetos em Destaque
 
-- 📚 [Sistema de Biblioteca com JPA](https://github.com/**SEU_USUARIO**/**REPO**)  
+- 📚 [Sistema de Biblioteca com JPA (em breve)](https://github.com/**SEU_USUARIO**/**REPO**)  
   _CRUD com entidades como Livro, Usuário e Empréstimo. Relacionamentos, JPQL e preparação para Spring._  
 
 - 💇‍♂️ [CRUD de Salão de Beleza (em breve)](https://github.com/**SEU_USUARIO**/**REPO**)  
   _Projeto real, com foco em estrutura profissional e expansão futura._
 
-- 🛒 [Outro projeto que quiser destacar](https://github.com/**SEU_USUARIO**/**REPO**)  
-  _Descrição rápida aqui._
 
 ---
 
 ### 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/**SEU_LINKEDIN**)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:**SEUEMAIL**@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/**SEU_LINKEDIN**](https://www.linkedin.com/in/gabriel-valadares-a43b85158/))
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](silva44gabriel@gmail.com)
 
----
 
-### ⚡ Curiosidades
-
-- 🧩 Curioso por arquitetura de software
-- 🎧 Gosta de rádios amadores e sotaques mineiro e baiano nas explicações
-- 🤓 Sempre em busca de aprender na prática, testando e errando com consciência
