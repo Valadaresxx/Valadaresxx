@@ -49,10 +49,10 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+---
 
 <br/>
 <br/>
----
 
 ### 📘 Projetos em Destaque
 
@@ -62,6 +62,7 @@
 - 💇‍♂️ [CRUD de Salão de Beleza (em breve)](https://github.com/**SEU_USUARIO**/**REPO**)  
   _Projeto real, com foco em estrutura profissional e expansão futura._
 
+---
 
 <br/>
 <br/>
@@ -76,6 +77,9 @@
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Valadaresxx&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
+
+  <br/>
+  ---
 
 ### 📫 Como me encontrar
 
