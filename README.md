@@ -50,6 +50,8 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
+<br/>
+<br/>
 ---
 
 ### 📘 Projetos em Destaque
