@@ -62,7 +62,6 @@
 - 💇‍♂️ [CRUD de Salão de Beleza (em breve)](https://github.com/**SEU_USUARIO**/**REPO**)  
   _Projeto real, com foco em estrutura profissional e expansão futura._
 
----
 
 <br/>
 <br/>
@@ -79,7 +78,7 @@
   />
 
   <br/>
-  ---
+ 
 
 ### 📫 Como me encontrar
 
