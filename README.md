@@ -31,7 +31,7 @@
 
 ### 📘 Projetos em Destaque
 
-- 📚 [Sistema de Biblioteca com JPA (em breve)](https://github.com/Valadaresxx/Biblioteca_JPA)  
+- 📚 [Sistema de Biblioteca com JPA (Em Construção)](https://github.com/Valadaresxx/Biblioteca_JPA)  
   _CRUD com entidades como Livro, Usuário e Empréstimo. Relacionamentos, JPQL e preparação para Spring._  
 
 - 💇‍♂️ [CRUD de Salão de Beleza (em breve)]()  
