@@ -8,10 +8,10 @@
 
 ### 🚀 Sobre mim
 
-- 🧠 Estudando **Java, JDBC, JPA/Hibernate**
+- 🧠 Estudando **Java, Spring Framework**
 - 📚 Construindo projetos práticos com foco em CRUDs reais
 - 🔁 Aplicando boas práticas de versionamento (`feat:`, `fix:`, etc.)
-- ⏳ Próximo passo: **Spring Framework + React**
+- ⏳ Próximo passo: **JUnit 5 - PostgreSQL**
 
 ---
 
