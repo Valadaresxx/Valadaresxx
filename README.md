@@ -1,45 +1,45 @@
+
 <h1 align="center">Gabriel Valadares 👨‍💻</h1>
 
 <p align="center">
-  <i>Desenvolvedor Java em construção, apaixonado por tecnologia, código limpo e desafios reais.</i>
+  <i>Desenvolvedor Java focado em construir sistemas reais com o ecossistema Spring.</i>
 </p>
 
 ---
 
 ### 🚀 Sobre mim
 
-- 🧠 Estudando **Java, Spring Framework**
-- 📚 Construindo projetos práticos com foco em CRUDs reais
-- 🔁 Aplicando boas práticas de versionamento (`feat:`, `fix:`, etc.)
-- ⏳ Próximo passo: **JUnit 5 - PostgreSQL**
+- 🔧 Focado em **Java e Spring Boot**
+- 💻 Desenvolvendo projetos práticos com **JPA/Hibernate**, **REST APIs**, e banco de dados real
+- 🧠 Aplicando **boas práticas de versionamento** (`feat:`, `fix:`, etc.)
+- 📚 Em constante evolução com testes automatizados, arquitetura limpa e deploy com Docker
+- ⏳ Próximos passos: **JUnit 5**, **PostgreSQL**, **JWT**, **Docker**, **AWS**
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Tecnologias que uso
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>
 </p>
 
-<br/>
+---
 
 ### 📘 Projetos em Destaque
 
 - 📚 [Sistema de Biblioteca com JPA (Em Construção)](https://github.com/Valadaresxx/Biblioteca_JPA)  
-  _CRUD com entidades como Livro, Usuário e Empréstimo. Relacionamentos, JPQL e preparação para Spring._  
+  _CRUD com Livro, Usuário e Empréstimo. Relacionamentos, consultas com JPQL e base sólida para Spring._
 
 - 💇‍♂️ [CRUD de Salão de Beleza (em breve)]()  
-  _Projeto real, com foco em estrutura profissional e expansão futura._
+  _Projeto real, com estrutura profissional e plano de expansão com Spring e frontend._
 
-
-<br/>
-<br/>
+---
 
 ### 📊 Estatísticas
 
