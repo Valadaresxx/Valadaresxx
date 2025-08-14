@@ -33,11 +33,12 @@
 
 ### 📘 Projetos em Destaque
 
-- 📚 [Sistema de Biblioteca com JPA (Em Construção)](https://github.com/Valadaresxx/Biblioteca_JPA)  
+- 💇‍♂️ [API REST para gerenciar uma Barbearia (em contrução)](https://github.com/Valadaresxx/BarberLab.git)  
+  _BarberLab é uma API RESTFful, usando JAVA, Spring Boot, e postgreSQL. Barbeiros, clientes, agendamentos e serviços._
+
+- 📚 [Sistema de Biblioteca com JPA](https://github.com/Valadaresxx/Biblioteca_JPA)  
   _CRUD com Livro, Usuário e Empréstimo. Relacionamentos, consultas com JPQL e base sólida para Spring._
 
-- 💇‍♂️ [CRUD de Salão de Beleza (em breve)]()  
-  _Projeto real, com estrutura profissional e plano de expansão com Spring e frontend._
 
 ---
 
