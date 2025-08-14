@@ -33,7 +33,7 @@
 
 ### 📘 Projetos em Destaque
 
-- 💇‍♂️ [API REST para gerenciar uma Barbearia (em contrução)](https://github.com/Valadaresxx/BarberLab.git)  
+- 💇‍♂️ [API REST para gerenciar uma Barbearia (em construção)](https://github.com/Valadaresxx/BarberLab.git)  
   _BarberLab é uma API RESTFful, usando JAVA, Spring Boot, e postgreSQL. Barbeiros, clientes, agendamentos e serviços._
 
 - 📚 [Sistema de Biblioteca com JPA](https://github.com/Valadaresxx/Biblioteca_JPA)  
